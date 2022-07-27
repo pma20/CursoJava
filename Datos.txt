@@ -1,0 +1,23 @@
+Los modelos son los siguientes:
+A1
+A2
+A3
+A5
+A8
+AA
+BB
+CC
+Mustang
+Roja
+
+Las velocidades son las siguientes:
+270
+280
+290
+300
+310
+300
+310
+300
+330
+450
